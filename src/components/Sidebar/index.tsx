@@ -68,6 +68,12 @@ const menuGroups = [
         label: " Pump Fun",
         route: "/pumpfun",
       },
+
+      {
+        icon: <img src="/sol.png" alt="" height={22} width={22} />,
+        label: " Spl Bundler",
+        route: "https://spl.blocktools.ai/",
+      },
       
     ],
   },
