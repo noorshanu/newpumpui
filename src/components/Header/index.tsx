@@ -78,11 +78,9 @@ const Header = (props: {
 
           {/* <!-- User Area --> */}
     
-         {window.location.pathname.startsWith('/pumpfun') ? (
+        
            <SolanaConnect/>
-         ) : (
-           <CustomConnectWallet/>
-         )}
+       
           {/* <!-- User Area --> */}
         </div>
       </div>
