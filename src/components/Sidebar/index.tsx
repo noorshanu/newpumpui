@@ -56,8 +56,8 @@ const menuGroups = [
             />
           </svg>
         ),
-        label: "Dashboard",
-        route: "/",
+        label: "Home",
+        route: "https://www.blocktools.ai/",
       },
    
       
