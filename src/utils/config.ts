@@ -1,1 +1,1 @@
-export const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://pumpfunapi.blocktools.ai';
+export const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://pumpfunapi.blocktools.ai';
